@@ -1,0 +1,41 @@
+/*make image responcive*/
+.back-image{
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	min-width: 70vh;
+	height: 500px;
+
+}
+/*navbar badar*/
+.navbar-brand{
+	font-weight: bold;
+	font-size: 30px;
+	font-family: 'ubuntu', sans-sarif;
+	
+}
+
+/*navbar menu*/
+/*.navbar #mymenu .navbar-nav .nav-item .nav-link{
+	color:white;
+}
+.navbar #mymenu .navbar-nav .nav-item .nav-link:hover{
+	color: #f0aab1;*/
+	
+}
+
+
+.text-danger{
+	font-weight: bold;
+	
+}
+
+
+
+
+
+
+	
+
+
